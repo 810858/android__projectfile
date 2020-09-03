@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TaskMakerApp.iml" filepath="$PROJECT_DIR$/TaskMakerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TaskMakerApp-JobScheduler.iml" filepath="$PROJECT_DIR$/.idea/modules/TaskMakerApp-JobScheduler.iml" group="TaskMakerApp-JobScheduler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TaskMakerApp-JobScheduler-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TaskMakerApp-JobScheduler-app.iml" group="TaskMakerApp-JobScheduler/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
